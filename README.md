@@ -1,7 +1,6 @@
 # lane-detection
 cv project for detecting lanes while driving<br>
 <br>
-<br>
 1. Extracting a frame’s data from the video<br>
 2. Converting a frame from the video to RGB from BGR<br>
 3. Getting the frame shape (height and width)<br>
